@@ -1,0 +1,2 @@
+# daily-ai-project-2026-10-17-schemadrift-agent-autonomous-adapter
+SchemaDrift-Agent is an autonomous integration middleware that intercepts broken third-party webhook payloads, diagnoses schema drift, and synthesizes verified data adapters. Using LangGraph and sandboxed Python execution tools, it iteratively writes and tests field transformation logic against dead-lettered payloads and historical buffers without 
